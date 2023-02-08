@@ -15,7 +15,10 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@prismicio/react": "^2.5.1",
     "gatsby": "^5.5.0",
+    "gatsby-plugin-image": "^3.6.0",
+    "gatsby-source-prismic": "^5.2.10",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
